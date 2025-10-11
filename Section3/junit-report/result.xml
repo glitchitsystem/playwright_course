@@ -1,0 +1,20 @@
+<testsuites id="" name="" tests="6" failures="0" skipped="0" errors="0" time="3.5768369999999994">
+<testsuite name="annotations.spec.js" timestamp="2025-10-05T18:07:35.431Z" hostname="chromium" tests="2" failures="0" skipped="0" time="0.557" errors="0">
+<testcase name="annotations and tags › Test four" classname="annotations.spec.js" time="0.276">
+</testcase>
+<testcase name="annotations and tags › Test five @desktop @smoke" classname="annotations.spec.js" time="0.281">
+</testcase>
+</testsuite>
+<testsuite name="annotations.spec.js" timestamp="2025-10-05T18:07:35.431Z" hostname="firefox" tests="2" failures="0" skipped="0" time="2.04" errors="0">
+<testcase name="annotations and tags › Test four" classname="annotations.spec.js" time="1.008">
+</testcase>
+<testcase name="annotations and tags › Test five @desktop @smoke" classname="annotations.spec.js" time="1.032">
+</testcase>
+</testsuite>
+<testsuite name="annotations.spec.js" timestamp="2025-10-05T18:07:35.431Z" hostname="webkit" tests="2" failures="0" skipped="0" time="0.985" errors="0">
+<testcase name="annotations and tags › Test four" classname="annotations.spec.js" time="0.486">
+</testcase>
+<testcase name="annotations and tags › Test five @desktop @smoke" classname="annotations.spec.js" time="0.499">
+</testcase>
+</testsuite>
+</testsuites>
