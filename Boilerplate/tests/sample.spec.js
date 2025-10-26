@@ -13,7 +13,7 @@ test.beforeAll(async () => {
 });
 
 test.beforeEach(async ({ page }) => {
-  // Code
+  await page.goto("http://localhost:3000/index.html");
 });
 
 test.describe("sample suite", () => {
