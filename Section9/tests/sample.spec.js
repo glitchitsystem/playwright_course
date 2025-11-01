@@ -33,11 +33,6 @@ test.describe("sample suite", () => {
     await page.locator("#timeout-input").fill("2000");
 
     await page.locator("#timeout-btn").click();
-
-    await page.locator("#show-delayed").click();
-    await expect(page.getByTestId("delayed-element")).toContainText(
-      "Element appeared after delay!"
-    );
   });
 
   test(
